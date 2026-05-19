@@ -11,6 +11,3 @@ I enjoy working with **Golang**, **Python**, and **PostgreSQL**, while constantl
 </picture>
 
 ---
-### 📫 Let's Connect
-* **Focus:** Backend Systems, Network Security, & DevOps
-* **OS:** Arch Linux 
