@@ -1,13 +1,17 @@
-# Hi there, I'm Hanif! 👋
+# Hi, I'm Hanif!
 
-I am a **Network Engineering** student at Binus University with a deep interest in backend development and system infrastructure. Currently, I am honing my skills as an ICT intern, focusing on building scalable service management systems and automated data processing tools. 
+Network Engineering Student @ Binus University | ICT Intern
 
-I enjoy working with **Golang**, **Python**, and **PostgreSQL**, while constantly exploring the intersection of network security and DevOps. As an **Arch Linux** enthusiast, I’m passionate about optimizing workflows through **GitHub Actions** and efficient system automation.
+Passionate about computer networks, IT infrastructure, and network security. I enjoy configuring systems, understanding network protocols, and automating repetitive tasks with scripts.
+
+- 🔌 **Core Interest**: Computer Networks, IT Infrastructure & Security
+- ⚙️ **Scripting & Tools**: Python, Golang, Bash & PostgreSQL
+- 🐧 **OS**: Arch Linux
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lilhanif/lilhanif/output/galaga-contribution-graph.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lilhanif/lilhanif/output/galaga-contribution-graph.svg">
   <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/lilhanif/lilhanif/output/galaga-contribution-graph.svg">
 </picture>
-
----
